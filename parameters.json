@@ -1,0 +1,5 @@
+{
+  "name": "NormalizeAndAugment",
+  "type": "processing",
+  "description": "Normalizes and augments tabular data"
+}
